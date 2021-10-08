@@ -1,11 +1,10 @@
 ﻿using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
-using System;
 
 namespace ATP_Book
 {
-    class Program
+    public class PurchaseTests
     {
         private static IWebDriver _driver;
 
